@@ -61,3 +61,7 @@ Data-Driven Decision Making – Use Power BI insights for real-time monitoring a
 ### Conclusion
 
 The current patient waitlist trends indicate a pressing need for better resource allocation and strategic intervention in high-demand specialties. Implementing efficient scheduling, capacity expansion, and digital transformation will be crucial in addressing patient backlog and improving service delivery.
+
+Note:
+Data folder contains the inpatient and outpatient data for year duration 2018-2021
+pbix file is the power BI dashboard file.
